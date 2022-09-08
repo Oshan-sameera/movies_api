@@ -22,9 +22,7 @@ public class MovieController {
 
     @GetMapping
     public List<Movie> getAllMovies() {
-        System.out.println(
 
-        );
 //        System.out.println("loading index page");
 //        logger.trace("loading index page logger");
 //        logger.error("FATAL ERROR");
